@@ -1,1 +1,1 @@
-# cases-store
+# case-store
